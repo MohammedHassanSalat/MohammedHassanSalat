@@ -4,7 +4,7 @@
 
 
 ## Hey! 👋
-I'm Mohammed, a 21 years old Front-End Developer from Egypt.
+I’m Mohammed, a 21-year-old Front-End Developer from Egypt.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
