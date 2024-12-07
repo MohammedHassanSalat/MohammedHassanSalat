@@ -14,8 +14,6 @@ I’m Mohammed, a 21-year-old Front-End Developer from Egypt.
 
 - 🌱 I'm currently studying Software Engineering.
 - 💼 I'm working on personal projects to enhance my skills and contribute to open source.
-- 📚 I'm interested in front-end web development using Angular.
-- 🎓 I have expertise in HTML/CSS , SASS , JavaScript , Typescript and Bootstrap.
 
 
 
@@ -27,15 +25,14 @@ I’m Mohammed, a 21-year-old Front-End Developer from Egypt.
 
 
 ### 🛠 &nbsp;Tech Stack
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=FF0000)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss&logoColor=0EA5E9)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=SASS&logoColor=FF0000)&nbsp;
-![React.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular&logoColor=FF0000)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 
 
