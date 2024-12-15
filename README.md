@@ -13,7 +13,7 @@ I’m Mohammed, a 21-year-old Front-End Developer from Egypt.
 ## 💬 About Me
 
 - 🌱 I'm currently studying Software Engineering.
-- 💼 I'm working on personal projects to enhance my skills and contribute to open source.
+- 💼 I'm working on personal projects enhancing my skills to achieve my career goals.
 
 
 
